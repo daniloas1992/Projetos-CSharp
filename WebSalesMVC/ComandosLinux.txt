@@ -1,2 +1,0 @@
-Iniciar projeto MVC no Visual Code:
-dotnet new mvc
