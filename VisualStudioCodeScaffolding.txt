@@ -5,3 +5,20 @@ dotnet tool update -g dotnet-aspnet-codegenerator
 
 Controller:
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-model?view=aspnetcore-5.0&tabs=visual-studio-code
+
+
+To scaffolder a controller, we need to use the command below:
+dotnet aspnet-codegenerator controller -name BooksController --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries --readWriteActions
+
+To scaffolder a view, the command is like below:
+dotnet aspnet-codegenerator view Index List -m Book -outDir Views\Books --useDefaultLayout --referenceScriptLibraries
+
+If you saw errors like “Could not execute because the specified command or file was not found.” during the first time you execute the command, remember you need to install aspnet-codegenerator to run the command successfully.
+dotnet tool install -g dotnet-aspnet-codegenerator
+
+Besides that, you need to add scaffolding packages to your project too. Below are some packages need to add, and it depends on your project components.
+dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
+dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+
+Font: https://mycsharpdeveloper.wordpress.com/2020/04/22/how-to-scaffolding-asp-net-core-mvc-view-and-controller-in-visual-studio-code/#:~:text=The%20VS%20Code%20is%20not,command%20provides%20by%20DotNet%20Core.&text=Besides%20that%2C%20you%20need%20to,depends%20on%20your%20project%20components.
