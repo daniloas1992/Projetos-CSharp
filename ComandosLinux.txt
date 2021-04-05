@@ -1,2 +1,11 @@
 Iniciar projeto MVC no Visual Code:
 dotnet new mvc
+
+Rodar projeto no Visual Code:
+dotnet run
+
+Rodar com rebuild automático quando salvar alterações:
+dotnet watch run
+
+Executar MySql:
+mysql -uroot -p
