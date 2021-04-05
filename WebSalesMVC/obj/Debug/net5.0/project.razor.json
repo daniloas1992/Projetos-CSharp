@@ -15603,6 +15603,11 @@
   "RootNamespace": "WebSalesMVC",
   "Documents": [
     {
+      "FilePath": "/home/danilo/Projetos/Projetos CSharp/WebSalesMVC/Views/Departments/Index.cshtml",
+      "TargetPath": "Views\\Departments\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/danilo/Projetos/Projetos CSharp/WebSalesMVC/Views/_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"

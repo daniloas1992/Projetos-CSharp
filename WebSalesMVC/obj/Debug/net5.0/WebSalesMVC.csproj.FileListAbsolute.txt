@@ -39,3 +39,4 @@
 /home/danilo/Projetos/Projetos CSharp/WebSalesMVC/obj/Debug/net5.0/WebSalesMVC.genruntimeconfig.cache
 /home/danilo/Projetos/Projetos CSharp/WebSalesMVC/obj/Debug/net5.0/WebSalesMVC.csproj.CopyComplete
 /home/danilo/Projetos/Projetos CSharp/WebSalesMVC/obj/Debug/net5.0/Razor/Views/Home/About.cshtml.g.cs
+/home/danilo/Projetos/Projetos CSharp/WebSalesMVC/obj/Debug/net5.0/Razor/Views/Departments/Index.cshtml.g.cs
