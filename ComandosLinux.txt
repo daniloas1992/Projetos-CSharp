@@ -1,5 +1,6 @@
 Documentação:
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio-code
+https://docs.microsoft.com/en-us/archive/msdn-magazine/2016/august/asp-net-core-write-apps-with-visual-studio-code-and-entity-framework
 
 Iniciar projeto MVC no Visual Code:
 dotnet new mvc
