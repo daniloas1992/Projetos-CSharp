@@ -15603,18 +15603,13 @@
   "RootNamespace": "WebSalesMVC",
   "Documents": [
     {
-      "FilePath": "/home/danilo/Projetos/Projetos CSharp/WebSalesMVC/Views/Departments/Details.cshtml",
-      "TargetPath": "Views\\Departments\\Details.cshtml",
+      "FilePath": "/home/danilo/Projetos/Projetos CSharp/WebSalesMVC/Pages/Departments/Details.cshtml",
+      "TargetPath": "Pages\\Departments\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/danilo/Projetos/Projetos CSharp/WebSalesMVC/Views/Departments/Index.cshtml",
-      "TargetPath": "Views\\Departments\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/danilo/Projetos/Projetos CSharp/WebSalesMVC/Views/Departments/Create.cshtml",
-      "TargetPath": "Views\\Departments\\Create.cshtml",
+      "FilePath": "/home/danilo/Projetos/Projetos CSharp/WebSalesMVC/Pages/Departments/Edit.cshtml",
+      "TargetPath": "Pages\\Departments\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15628,8 +15623,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/danilo/Projetos/Projetos CSharp/WebSalesMVC/Views/Departments/Edit.cshtml",
-      "TargetPath": "Views\\Departments\\Edit.cshtml",
+      "FilePath": "/home/danilo/Projetos/Projetos CSharp/WebSalesMVC/Pages/Departments/Delete.cshtml",
+      "TargetPath": "Pages\\Departments\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15648,8 +15643,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/danilo/Projetos/Projetos CSharp/WebSalesMVC/Views/Departments/Delete.cshtml",
-      "TargetPath": "Views\\Departments\\Delete.cshtml",
+      "FilePath": "/home/danilo/Projetos/Projetos CSharp/WebSalesMVC/Pages/Departments/Index.cshtml",
+      "TargetPath": "Pages\\Departments\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/danilo/Projetos/Projetos CSharp/WebSalesMVC/Pages/Departments/Create.cshtml",
+      "TargetPath": "Pages\\Departments\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
