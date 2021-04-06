@@ -26,6 +26,11 @@ dotnet aspnet-codegenerator controller -name DepartmentsController --relativeFol
 
 
 
+
+
+
+
+
 #To scaffolder a view, the command is like below:
 #dotnet aspnet-codegenerator view Index List -m Book -outDir Views\Books --useDefaultLayout --referenceScriptLibraries
 

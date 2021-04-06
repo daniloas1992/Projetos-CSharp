@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0Pdt4SIFf8lQWo/z/E2EvhQ8bBMrXzomZSO6FX4xRguxi4UVhyjWqMwnCDBVK/mmVohAWb3muSIBNg4KtbW45A==",
+  "dgSpecHash": "S+v88FCoGwzyzJSioX4pl3hWti5wLo/4C6+uQzMCyKnW+EA7OQr2Sms/YZcKz92DW/3wuOHhdkQxLz9+HK+54A==",
   "success": true,
   "projectFilePath": "/home/danilo/Projetos/Projetos CSharp/WebSalesMVC/WebSalesMVC.csproj",
   "expectedPackageFiles": [
@@ -52,7 +52,9 @@
     "/home/danilo/.nuget/packages/microsoft.visualstudio.web.codegenerators.mvc/5.0.2/microsoft.visualstudio.web.codegenerators.mvc.5.0.2.nupkg.sha512",
     "/home/danilo/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
     "/home/danilo/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "/home/danilo/.nuget/packages/mysqlconnector/1.1.0/mysqlconnector.1.1.0.nupkg.sha512",
     "/home/danilo/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
+    "/home/danilo/.nuget/packages/pomelo.entityframeworkcore.mysql/5.0.0-alpha.2/pomelo.entityframeworkcore.mysql.5.0.0-alpha.2.nupkg.sha512",
     "/home/danilo/.nuget/packages/runtime.native.system/4.3.0/runtime.native.system.4.3.0.nupkg.sha512",
     "/home/danilo/.nuget/packages/system.collections/4.3.0/system.collections.4.3.0.nupkg.sha512",
     "/home/danilo/.nuget/packages/system.collections.concurrent/4.3.0/system.collections.concurrent.4.3.0.nupkg.sha512",

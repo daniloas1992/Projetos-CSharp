@@ -151,3 +151,5 @@
 /home/danilo/Projetos/Projetos CSharp/WebSalesMVC/obj/Debug/net5.0/Razor/Views/Departments/Details.cshtml.g.cs
 /home/danilo/Projetos/Projetos CSharp/WebSalesMVC/obj/Debug/net5.0/Razor/Views/Departments/Edit.cshtml.g.cs
 /home/danilo/Projetos/Projetos CSharp/WebSalesMVC/obj/Debug/net5.0/Razor/Views/Departments/Index.cshtml.g.cs
+/home/danilo/Projetos/Projetos CSharp/WebSalesMVC/bin/Debug/net5.0/MySqlConnector.dll
+/home/danilo/Projetos/Projetos CSharp/WebSalesMVC/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll

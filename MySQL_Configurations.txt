@@ -8,3 +8,10 @@ GRANT ALL PRIVILEGES ON `user`.* TO 'user'@'localhost';
 FLUSH PRIVILEGES;
 
 /*select Host, User from mysql.user;*/
+
+
+
+
+# https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql
+
+dotnet add package Pomelo.EntityFrameworkCore.MySql --version 5.0.0-alpha.2
