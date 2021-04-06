@@ -13,7 +13,7 @@ namespace WebSalesMVC
     {
         public static void Main(string[] args)
         {
-            CreateHostBuilder(args).Build().Run();//Teste
+            CreateHostBuilder(args).Build().Run();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
