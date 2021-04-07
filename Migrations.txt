@@ -1,8 +1,0 @@
-#Install:
-dotnet tool install --global dotnet-ef
-
-#First migration (Create database from class):
-dotnet ef migrations add InitialCreate
-
-#Create database:
-dotnet ef database update

@@ -1,5 +1,5 @@
 {
-  "FilePath": "/home/danilo/Projetos/Projetos CSharp/SalesWebMvc/SalesWebMvc.csproj",
+  "FilePath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/SalesWebMvc.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15603,63 +15603,63 @@
   "RootNamespace": "SalesWebMvc",
   "Documents": [
     {
-      "FilePath": "/home/danilo/Projetos/Projetos CSharp/SalesWebMvc/Views/Departments/Delete.cshtml",
-      "TargetPath": "Views\\Departments\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/danilo/Projetos/Projetos CSharp/SalesWebMvc/Views/Departments/Edit.cshtml",
+      "FilePath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/Views/Departments/Edit.cshtml",
       "TargetPath": "Views\\Departments\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/danilo/Projetos/Projetos CSharp/SalesWebMvc/Views/Home/Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/danilo/Projetos/Projetos CSharp/SalesWebMvc/Views/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/danilo/Projetos/Projetos CSharp/SalesWebMvc/Views/_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/danilo/Projetos/Projetos CSharp/SalesWebMvc/Views/Departments/Index.cshtml",
+      "FilePath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/Views/Departments/Index.cshtml",
       "TargetPath": "Views\\Departments\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/danilo/Projetos/Projetos CSharp/SalesWebMvc/Views/_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/danilo/Projetos/Projetos CSharp/SalesWebMvc/Views/Shared/Error.cshtml",
+      "FilePath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/Views/Shared/Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/danilo/Projetos/Projetos CSharp/SalesWebMvc/Views/Departments/Details.cshtml",
+      "FilePath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/Views/Departments/Create.cshtml",
+      "TargetPath": "Views\\Departments\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/Views/Departments/Details.cshtml",
       "TargetPath": "Views\\Departments\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/danilo/Projetos/Projetos CSharp/SalesWebMvc/Views/Shared/_Layout.cshtml",
+      "FilePath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/danilo/Projetos/Projetos CSharp/SalesWebMvc/Views/Home/Privacy.cshtml",
+      "FilePath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/danilo/Projetos/Projetos CSharp/SalesWebMvc/Views/Departments/Create.cshtml",
-      "TargetPath": "Views\\Departments\\Create.cshtml",
+      "FilePath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/Views/Departments/Delete.cshtml",
+      "TargetPath": "Views\\Departments\\Delete.cshtml",
       "FileKind": "mvc"
     }
   ],

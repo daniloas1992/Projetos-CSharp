@@ -124,9 +124,6 @@ mysql -uroot -p
 
 #Atenção: Os comandos do sql devem ser executados com ponto-e-vírgula no final
 
-#Crie o banco de dados que será utilizado na aplicação:
-CREATE DATABASE saleswebmvcappbd;
-
 #Crie um usuário com acesso ao localhost:
 # Onde tem 'user' digite o seu nome mantendo as aspas simples
 # Onde está 'strong_password' informe uma senha forte mantendo as aspas simples

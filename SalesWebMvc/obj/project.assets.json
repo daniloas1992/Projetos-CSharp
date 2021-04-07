@@ -7572,11 +7572,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/danilo/Projetos/Projetos CSharp/SalesWebMvc/SalesWebMvc.csproj",
+      "projectUniqueName": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/SalesWebMvc.csproj",
       "projectName": "SalesWebMvc",
-      "projectPath": "/home/danilo/Projetos/Projetos CSharp/SalesWebMvc/SalesWebMvc.csproj",
+      "projectPath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/SalesWebMvc.csproj",
       "packagesPath": "/home/danilo/.nuget/packages/",
-      "outputPath": "/home/danilo/Projetos/Projetos CSharp/SalesWebMvc/obj/",
+      "outputPath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/danilo/.nuget/NuGet/NuGet.Config"
