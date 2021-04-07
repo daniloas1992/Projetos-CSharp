@@ -24,7 +24,8 @@ dotnet-aspnet-codegenerator razorpage -m Department -dc SalesWebMvcContext -udl 
 #--referenceScriptLibraries:  Adds _ValidationScriptsPartial to Edit and Create pages
 
 #Create Controller:
-dotnet aspnet-codegenerator controller -name DepartmentsController --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries --readWriteActions
+######dotnet aspnet-codegenerator controller -name DepartmentsController --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries --readWriteActions
+dotnet aspnet-codegenerator controller -name DepartmentsController -m Department -dc SalesWebMvcContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries
 
 
 
