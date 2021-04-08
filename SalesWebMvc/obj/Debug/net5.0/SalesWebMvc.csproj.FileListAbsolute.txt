@@ -348,3 +348,4 @@
 /home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/obj/Debug/net5.0/ref/SalesWebMvc.dll
 /home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/obj/Debug/net5.0/SalesWebMvc.pdb
 /home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/obj/Debug/net5.0/SalesWebMvc.genruntimeconfig.cache
+/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/obj/Debug/net5.0/Razor/Views/Sellers/Index.cshtml.g.cs

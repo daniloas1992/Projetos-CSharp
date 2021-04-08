@@ -15618,6 +15618,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/Views/Sellers/Index.cshtml",
+      "TargetPath": "Views\\Sellers\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
