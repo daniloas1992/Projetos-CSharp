@@ -15649,6 +15649,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/Views/Sellers/Details.cshtml",
+      "TargetPath": "Views\\Sellers\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
