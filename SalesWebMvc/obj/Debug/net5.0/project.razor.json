@@ -15674,8 +15674,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/Views/SalesRecords/SimpleSearch.cshtml",
+      "TargetPath": "Views\\SalesRecords\\SimpleSearch.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/Views/SalesRecords/Index.cshtml",
+      "TargetPath": "Views\\SalesRecords\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15686,6 +15696,11 @@
     {
       "FilePath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/Views/Sellers/Edit.cshtml",
       "TargetPath": "Views\\Sellers\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/Views/SalesRecords/GroupingSearch.cshtml",
+      "TargetPath": "Views\\SalesRecords\\GroupingSearch.cshtml",
       "FileKind": "mvc"
     },
     {
