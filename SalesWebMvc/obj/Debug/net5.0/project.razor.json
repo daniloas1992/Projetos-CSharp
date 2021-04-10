@@ -15684,6 +15684,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/Views/Sellers/Edit.cshtml",
+      "TargetPath": "Views\\Sellers\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/Views/Sellers/Delete.cshtml",
       "TargetPath": "Views\\Sellers\\Delete.cshtml",
       "FileKind": "mvc"
