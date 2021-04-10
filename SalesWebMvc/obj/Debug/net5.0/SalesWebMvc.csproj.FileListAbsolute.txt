@@ -350,3 +350,4 @@
 /home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/obj/Debug/net5.0/SalesWebMvc.genruntimeconfig.cache
 /home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/obj/Debug/net5.0/Razor/Views/Sellers/Index.cshtml.g.cs
 /home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/obj/Debug/net5.0/Razor/Views/Sellers/Create.cshtml.g.cs
+/home/danilo/Projetos/Projetos-CSharp/SalesWebMvc/obj/Debug/net5.0/Razor/Views/Sellers/Delete.cshtml.g.cs
