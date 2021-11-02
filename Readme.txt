@@ -17,7 +17,7 @@ dotnet dev-certs https --trust
 #Para rodar a aplicação:
 dotnet run
 
-#Para rodar a aplicação com refresh automático quando allterar o código:
+#Para rodar a aplicação com refresh automático quando alterar o código:
 dotnet watch run
 
 #Para compilar o projeto e ver se está com algum erro
